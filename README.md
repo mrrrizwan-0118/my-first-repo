@@ -1,2 +1,2 @@
-# my-first-repo I am learning Git and GitHub 
+# My-first-repo I am learning Git and GitHub 
 I am learning Git and Github 
